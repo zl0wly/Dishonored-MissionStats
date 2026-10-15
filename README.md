@@ -14,7 +14,6 @@ de usar y de personalizar**, sin necesidad de tocar código:
 - 🔎 **Guía de problemas frecuentes** y notas para que no tengas sorpresas al instalarlo.
 
 > Si buscas el texto original en inglés, consérvalo en [`README.en.md`](README.en.md).
-> Si quieres el análisis técnico interno del mod, consulta [`MEMORIA.md`](MEMORIA.md).
 
 ---
 
@@ -85,7 +84,6 @@ que instalar, entender y personalizar el mod sea mucho más fácil:
 | Guía de configuración | No detallada | **Tabla de todas las opciones y textos**, con notas y ejemplos |
 | Instalación | 2 líneas | **Paso a paso**, con avisos y solución de problemas |
 | Personalización | «Hay un archivo de config» | **Explícita**: activar/desactivar funciones y traducir a otros idiomas |
-| Análisis técnico | — | `MEMORIA.md` (cómo funciona internamente) |
 
 > **Filosofía del fork:** que puedas disfrutar del mod leyendo solo este README, **sin abrir código
 > ni saber programar**. La idea es que *acercar el mod al español* sea el punto de partida, no la
@@ -409,7 +407,6 @@ El texto completo está en el archivo [`LICENSE`](LICENSE).
 |---|---|
 | [`README.md`](README.md) | Este documento (español): uso, instalación y configuración. |
 | [`README.en.md`](README.en.md) | README original en inglés (conservado). |
-| [`MEMORIA.md`](MEMORIA.md) | Explicación técnica de **cómo funciona el mod por dentro** (ingeniería inversa, hooks, estructuras). |
 | [`data/missionstats.ini`](data/missionstats.ini) | Configuración **en español** (plantilla lista para usar). |
 | [`data/missionstats.en.ini`](data/missionstats.en.ini) | Configuración **en inglés** original. |
 | [`code/`](code) | Código fuente completo del mod. |
